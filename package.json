@@ -1,0 +1,27 @@
+{
+  "name": "reactolio",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "yarn": "^1.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffchiangster/reactolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffchiangster/reactolio/issues"
+  },
+  "homepage": "https://github.com/ffchiangster/reactolio#readme"
+}
